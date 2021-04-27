@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ramunaidu Bobbili</h1>
--------------------------------------------
+
 <h3 align="center">❤️UI Dveloper | UX-Designer | React Developer❤️</h3>
-<img align="center" src="https://komarev.com/ghpvc/?username=ramunaidubobbili&color=brightgreen&style=flat&label=PROFILE+VIEWS" alt="Ramunaidu Bobbili" />
+
 <h3 align="center">My Skills:</h3>
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -27,6 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RamunaiduBobbili" />
 </span>
 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ramunaidubobbili&color=brightgreen&style=flat&label=PROFILE+VIEWS" alt="Ramunaidu Bobbili" /></p>
 
 - 👋 Hi, I’m @ramunaidubobbili
 - 👀 I’m interested in ...
